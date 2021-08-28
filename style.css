@@ -41,7 +41,7 @@ body{
 	color:#cf8a05;
 	
 	font-size:15px;
-	font-family: 'Rokkitt';
+	font-family: 'Rokkitt', sans-serif;
 	
 }
 
@@ -67,6 +67,7 @@ section{
 
 h2{
 	color:#444444;
+	font-family: 'Rokkitt', sans-serif;
 	
 }
 
@@ -78,6 +79,7 @@ h2{
 	width: 300px;
 	text-align: left;
 	margin:none;
+	font-family: 'Rokkitt', sans-serif;
 
 }
 #namepeople{
